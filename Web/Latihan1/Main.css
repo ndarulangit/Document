@@ -1,0 +1,79 @@
+.navbar{
+    background-color: rgba(44, 119, 180, 0.699);
+}
+.navbar-toggler{
+    border:0px;
+}
+.navbar #button{
+    background-image: url(../list.png);
+}
+.jumbotron  {
+    height: 598px;
+    background-image: url(../BG3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.jumbotron .container{
+    position: relative;
+    top: 28%;
+    z-index: 4;
+    text-align: center;
+    color: rgba(34, 105, 163, 0.699);
+    line-height: 2px;
+    letter-spacing: 6px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.jumbotron h1{
+    font-weight: bolder;
+}
+.jumbotron hr{
+    margin-top: 5px;
+    width: 400px;
+    border-top: 2px solid rgba(34, 105, 163, 0.699);
+}
+.aboutme{
+    background-color:;
+    min-height: 500px;
+    font-family: sans-serif;
+}
+.aboutme .hfoto{
+    width: 320px;
+    border: 3px solid gray;
+    margin-left: 200px;
+}
+.aboutme hr{
+    border-top: 1px solid gray;
+    width: 500px;
+}
+.aboutme .header1{
+        color: rgba(34, 105, 163, 0.699);
+        text-align: center;
+        letter-spacing: 5px;
+        font-weight: bold ;
+}
+.aboutme .text1{
+    color:rgba(34, 105, 163, 0.699);
+    margin-top: 30px;
+}
+.aboutme .ex{
+font-size: 25px;
+}
+.aboutme .par1{
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.aboutme .text1 img{
+    width: 50px;
+    opacity: 85%;
+}
+.portofolio .container{
+    min-height: 1200px;
+}
+.footer{
+    background-color: rgba(128, 128, 128, 0.726);
+}
+.footer p{
+    color: white;
+}
